@@ -1,3 +1,4 @@
+// math.test.js
 const { somar, subtrair } = require('./math');
 
 test('deve somar 2 + 3 e retornar 5', () => {
